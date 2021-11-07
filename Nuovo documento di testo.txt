@@ -1,0 +1,2 @@
+docker run -e TELEGRAM_BOT_TOKEN=1777404224:AAFS4CGnCU9jbSObGzlU_kGE1Qdcixahdbw
+ -e AMAZON_TAG=diomerda-21 --init lucatnt/telegram-bot-amazon
